@@ -1,0 +1,19 @@
+﻿1º Nombre: Raul PORCENTAJE DE VICTORIAS: 100.0% PARTIDAS GANADAS: 1 partidas jugadas: 1 , partidas perdidas: 0 , puntos anotados: 17 , puntos encajados: 13
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2º Nombre: admin PORCENTAJE DE VICTORIAS: 0.0% PARTIDAS GANADAS: 0 partidas jugadas: 0 , partidas perdidas: 0 , puntos anotados: 0 , puntos encajados: 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3º Nombre: Daniel PORCENTAJE DE VICTORIAS: 0.0% PARTIDAS GANADAS: 0 partidas jugadas: 0 , partidas perdidas: 0 , puntos anotados: 0 , puntos encajados: 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4º Nombre: David PORCENTAJE DE VICTORIAS: 0.0% PARTIDAS GANADAS: 0 partidas jugadas: 1 , partidas perdidas: 1 , puntos anotados: 13 , puntos encajados: 17
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
